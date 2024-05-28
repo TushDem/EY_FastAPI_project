@@ -7,7 +7,7 @@ This is a FastAPI Project to add list
 1. \*\*Clone the repository
 
 '''
-git clone https://github.com/TushDem/fastapi_project.git
+git clone https://github.com/TushDem/EY_FastAPI_project.git
 
 cd fastapi_project
 '''
